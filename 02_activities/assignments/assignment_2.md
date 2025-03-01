@@ -9,7 +9,7 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
+
     ## Bad Visualization
     
     ![Bad Visualization](https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/66198c082c2e2c13805f456a_0MZkCNdURg9pULmYv_BSDuoz6KyoJ5A8Ble-ClJFvkSNRckvpcYwVTgQP2bsRhISirretgFjAVALmz0NEuk_Vzi_0yJJlMciSdxe0eh3Db4u1AiYFDE_5pKEl1AG1Y8EPyNmdP3AD-TNjitfZALUKAs.png)
@@ -39,10 +39,10 @@
     The message being conveyed is easy to understand. The structure of the visualization is very organized, helping the viewer quickly grasp the intended insights or key information. The choice of line chart type is appropriate for the time series data, making it intuitive to analyze.
 
     It's a very effective example of the good data visualization.
-
-      ```
+  
+   
     - How could this data visualization have been improved?  
-      ```
+    
     If talking about the bad visualization, it can be improved by adding following points.
     1. The graph should have a title and axis labels to provide context.
     2. Arrange data points and labels in a way that avoids clutter. Use proper spacing and alignment.
@@ -50,7 +50,7 @@
     4. Focus on key data points and the information to be presented.
     5. Use contrasting colors for different data series to make them easily distinguishable.
     6. Adding legends for blue points and yellow lines.
-      ```
+   
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
