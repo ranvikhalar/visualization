@@ -10,29 +10,46 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-    ## Good Visualization
-
-    ![Good Visualization](https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/66198c075e09014fc912f55d_nBKrgRce15ougA19WETDEWcMY-fJjuq2kEh_qHeSxPd3CNqMrht70niXabBzUTW2xTO2chrIAO9UQYci_a9XiU2D3a0vsCHe57IPyYVjpPqoHDVEEcka7aAZx0YKpdh4rKm7shuyeRE8WkQk3grQBQY.png)
-
+    ## Bad Visualization
     
+    ![Bad Visualization](https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/66198c082c2e2c13805f456a_0MZkCNdURg9pULmYv_BSDuoz6KyoJ5A8Ble-ClJFvkSNRckvpcYwVTgQP2bsRhISirretgFjAVALmz0NEuk_Vzi_0yJJlMciSdxe0eh3Db4u1AiYFDE_5pKEl1AG1Y8EPyNmdP3AD-TNjitfZALUKAs.png)
+    
+    The line chart with data markers or scatter plot is meant to represent yearly recorded temperatures in °F.
+    
+    Aesthetic Issues:
+    The graph is overloaded with the data points in a small space which makes it difficult for someone to focus on key data points. It's impossible to use the data for insights. It's hard to distinguish the data points as the graph appear cluttered and confusing. It can be seen from the information at the bottom of the graph that the count of points is 37058.
+    
+    Substantive Issues:
+    The title, the X-Axis label, legends are missing. Without clear labels, it's difficult to understand what the data represents. It's difficult to determine if the data is being presented accurately and honestly.
+    
+    Perceptual Issues:
+    The key data points are not clearly highlighted and overcomplicating the visualization with too much information or poorly defined axes, it's hard to understand the trends or insights or the message to be conveyed. If the graph uses colors like blue and yellow without clear differentiation or purpose, it can be distracting or misleading. It tries to show too much information without a clear focus, it can overwhelm the viewer.
+    
+    ## Good Visualization
+    
+    ![Good Visualization](https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/66198c075e09014fc912f55d_nBKrgRce15ougA19WETDEWcMY-fJjuq2kEh_qHeSxPd3CNqMrht70niXabBzUTW2xTO2chrIAO9UQYci_a9XiU2D3a0vsCHe57IPyYVjpPqoHDVEEcka7aAZx0YKpdh4rKm7shuyeRE8WkQk3grQBQY.png)
+    
+    Aesthetic (Pleasing to look at): 
+    The use of clear colors and the subplots makes it visually appealing and easy to read. Aesthetics are crucial in keeping the viewer engaged and preventing them from feeling overwhelmed by the information presented. The choice of color for different seasons and layout helps to guide the viewer’s eye to important data points without unnecessary distraction. No data cluttering.
+    
+    Substantive (Accurate and Honest Presentation):
+    The visualization presents data in a straightforward, transparent manner. All the required labels, axis and figure titles are added that distinguish all the graphs for different seasons. The graph is neutral and honest. The chart's simplicity also means there is less room for misunderstanding or misinterpretation of the data being presented.The graphs has data source added for more information.
+    
+    Perceptual (Clear Message):
+    The message being conveyed is easy to understand. The structure of the visualization is very organized, helping the viewer quickly grasp the intended insights or key information. The choice of line chart type is appropriate for the time series data, making it intuitive to analyze.
 
-
-
-
-
-
+    It's a very effective example of the good data visualization.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
-
-
-
-
-
-      
+    If talking about the bad visualization, it can be improved by adding following points.
+    1. The graph should have a title and axis labels to provide context.
+    2. Arrange data points and labels in a way that avoids clutter. Use proper spacing and alignment.
+    3. Separate the numerical values, dates, and labels into distinct categories or series.
+    4. Focus on key data points and the information to be presented.
+    5. Use contrasting colors for different data series to make them easily distinguishable.
+    6. Adding legends for blue points and yellow lines.
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
