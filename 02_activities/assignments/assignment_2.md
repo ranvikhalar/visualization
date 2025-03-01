@@ -10,7 +10,11 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+    ## Good Visualization
+
+    ![Good Visualization](https://cdn.prod.website-files.com/61488f4f65be16b5ebbd450b/66198c075e09014fc912f55d_nBKrgRce15ougA19WETDEWcMY-fJjuq2kEh_qHeSxPd3CNqMrht70niXabBzUTW2xTO2chrIAO9UQYci_a9XiU2D3a0vsCHe57IPyYVjpPqoHDVEEcka7aAZx0YKpdh4rKm7shuyeRE8WkQk3grQBQY.png)
+
+    
 
 
 
