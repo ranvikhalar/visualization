@@ -20,8 +20,6 @@
 
 
 
-
-
       ```
     - How could this data visualization have been improved?  
       ```
