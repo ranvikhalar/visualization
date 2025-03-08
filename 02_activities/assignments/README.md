@@ -1,6 +1,6 @@
 # Python and Tableau Public Plots
 
-This repository contains a Plotly visualization for Assignment-3.
+This file contains a Plotly visualization and the Tableau Public plot for Assignment-3.
 
 ## Plotly Visualization - Scatter + Line
 
